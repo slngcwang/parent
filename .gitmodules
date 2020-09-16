@@ -1,0 +1,3 @@
+[submodule "module1"]
+	path = src/pages/module1
+	url = https://github.com/slngcwang/childRepo.git
